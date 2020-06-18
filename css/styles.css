@@ -1,0 +1,38 @@
+body {
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar-brand h1 {
+	margin-left: 15px;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+	vertical-align: middle;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.nav-item {
+	text-align: center;
+	border: 1px solid #ffffff;
+	background-color: #b3d9ff;
+
+	
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;
+  background-color: #66b3ff;
+}
+
+.row > div {
+	width: 97%;
+	box-sizing: border-box;
+	background-color: #dddddd;
+	border: 1px solid #666666;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+}
